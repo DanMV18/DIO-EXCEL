@@ -11,8 +11,11 @@ Desafio de criação de uma ferramenta de cálculos e previsões de investimento
   - Após essa personalização, foi inserida uma ferramenta para que o usuário possa escolher o perfil de investidor que mais se identifica e receber de forma visual uma divisão por valor, com base no valor que inseriu que gostaria de investir, e porcentagem nos diferentes tipos de FII, tudo de acordo com o perfil selecionado, gerando um gráfico para fácil visualização.
   - Portanto a ferramenta permite ao usuário:
   - > Receber a recomendação de um valor para investir todos os meses;
+    
     > Saber quanto patrimônio poderá acumular e quanto esse valor irá gerar de proventos com base em um valor investido, tempo de investimento e porcentagem de valorização da carteira, podendo simular diversos cenários futuros;
+    
     > Saber rápidamente quanto poderá acumular de patrimônio em 2, 5, 10, 20 e 30 anos;
+    
     > Conhecer recomendações de investimento com o valor que deseja investir de acordo com o perfil de investidor que escolher(Conservador, Moderado, Agressivo), nos diversos tipos de FII disponíveis no mercado.
 
 --------------------------------
